@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://zhuhonghui54.github.io</id>
     <title>Neville</title>
-    <updated>2019-05-27T07:34:32.917Z</updated>
+    <updated>2019-05-27T07:37:15.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://zhuhonghui54.github.io"/>
     <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
@@ -12,11 +12,11 @@
     <icon>https://zhuhonghui54.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Neville</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Watch]]></title>
+        <title type="html"><![CDATA[Hello   Watch]]></title>
         <id>https://zhuhonghui54.github.io/post/hello-watch</id>
         <link href="https://zhuhonghui54.github.io/post/hello-watch">
         </link>
-        <updated>2019-05-26T20:29:54.000Z</updated>
+        <updated>2019-05-27T07:35:40.000Z</updated>
         <content type="html"><![CDATA[<p>👏 欢迎你来到我的个人博客！</p>
 <p>我是朱洪辉，英文名Neville，一个CG视觉爱好者。</p>
 <p>✍️ 这是我的一个静态博客。我会用它来记录我的生活、作品、知识、笔记、创意...</p>
