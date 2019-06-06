@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zhuhonghui54.github.io</id>
+    <id>https://juliye.github.io</id>
     <title>Neville</title>
-    <updated>2019-06-06T04:09:05.769Z</updated>
+    <updated>2019-06-06T04:57:53.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zhuhonghui54.github.io"/>
-    <link rel="self" href="https://zhuhonghui54.github.io/atom.xml"/>
+    <link rel="alternate" href="https://juliye.github.io"/>
+    <link rel="self" href="https://juliye.github.io/atom.xml"/>
     <subtitle>Every has an &apos;s dream. 
 </subtitle>
-    <logo>https://zhuhonghui54.github.io/images/avatar.png</logo>
-    <icon>https://zhuhonghui54.github.io/favicon.ico</icon>
+    <logo>https://juliye.github.io/images/avatar.png</logo>
+    <icon>https://juliye.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, Neville</rights>
     <entry>
         <title type="html"><![CDATA[次世代游戏角色展示<毒液>]]></title>
-        <id>https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater</id>
-        <link href="https://zhuhonghui54.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater">
+        <id>https://juliye.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater</id>
+        <link href="https://juliye.github.io/post/ci-shi-dai-you-xi-jiao-se-zhan-shi-lessdu-ye-greater">
         </link>
         <updated>2019-06-05T16:27:49.000Z</updated>
         <summary type="html"><![CDATA[<p>根据美国漫威漫画旗下超级英雄毒液为原型
@@ -33,8 +33,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello   Watch]]></title>
-        <id>https://zhuhonghui54.github.io/post/hello-watch</id>
-        <link href="https://zhuhonghui54.github.io/post/hello-watch">
+        <id>https://juliye.github.io/post/hello-watch</id>
+        <link href="https://juliye.github.io/post/hello-watch">
         </link>
         <updated>2019-05-27T07:35:40.000Z</updated>
         <content type="html"><![CDATA[<p>👏 欢迎你来到我的个人博客！</p>
